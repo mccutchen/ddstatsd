@@ -16,7 +16,7 @@ import (
 	"time"
 )
 
-const VERSION = "0.0.5"
+const VERSION = "0.0.6"
 
 type Destination struct {
 	Address string
